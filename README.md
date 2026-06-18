@@ -11,7 +11,7 @@ This project aims to improve operational visibility by leveraging an event-drive
 The platform is designed with scalability, observability, and cloud-native deployment practices in mind, while demonstrating modern backend, frontend, and infrastructure engineering approaches.
 
 ## Project repositories
-* [log-analyzer-frontend](https://github.com/butwhole1994/log-analyzer-frontend)
+* [log-analyzer-frontend]([https://github.com/butwhole1994/log-analyzer-frontend](https://github.com/butwhole1994/log-anlayzer-frontend))
 * [log-analyzer-backend](https://github.com/butwhole1994/log-analyzer-backend)
 * [log-analyzer-infra](https://github.com/butwhole1994/log-analyzer-infra)
 
