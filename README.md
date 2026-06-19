@@ -17,7 +17,7 @@ The platform is designed with scalability, observability, and cloud-native deplo
 
 ## Architecture
 
-<img width="4257" height="2343" alt="Image" src="https://github.com/user-attachments/assets/68b6db11-fb3e-4542-9289-38d37eb5146b" />
+<img width="4257" height="2343" alt="Image" src="https://github.com/user-attachments/assets/f26b1470-90d9-467c-82bf-6d0f4b36c062" />
 
 ## Technology Stack
 
@@ -26,6 +26,7 @@ The platform is designed with scalability, observability, and cloud-native deplo
 | Frontend | React, Redux Toolkit, TanStack Router |
 | Backend | Spring Boot, Spring Cloud Gateway |
 | Database | PostgreSQL |
+| Search / Log Storage | OpenSearch |
 | Cache | Redis |
 | Messaging | Kafka |
 | CI/CD | GitHub Actions |
