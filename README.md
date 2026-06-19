@@ -17,7 +17,7 @@ The platform is designed with scalability, observability, and cloud-native deplo
 
 ## Architecture
 
-<img width="4257" height="2343" alt="Image" src="https://github.com/user-attachments/assets/f26b1470-90d9-467c-82bf-6d0f4b36c062" />
+<img width="4245" height="2343" alt="Image" src="https://github.com/user-attachments/assets/07fa8529-efc4-48e4-b691-ccaa5bb660dd" />
 
 ## Technology Stack
 
