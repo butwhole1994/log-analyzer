@@ -39,6 +39,15 @@ The project demonstrates a practical log processing pipeline using Spring Boot, 
 | Cloud | AWS |
 | CDN / Storage | CloudFront, S3 |
 
+## Technology Decisions
+
+- Kafka is used to decouple log ingestion from log processing and handle logs asynchronously.
+- OpenSearch is used for log search, filtering, and aggregation instead of storing searchable logs only in a relational database.
+- PostgreSQL is used for relational metadata such as projects, services, users, alert rules, and processing history.
+- Redis is used for caching and temporary processing status where persistence is not the primary requirement.
+- Docker Compose is used to reproduce the local infrastructure environment consistently.
+- AWS is planned as the cloud deployment target after validating the local architecture.
+
 ## Core Features
 
 - Log ingestion API
